@@ -37,3 +37,4 @@ lbl.pack()
 printbutton = tk.Button(frame, text="Copy",command = copydata)
 printbutton.pack(pady=10)
 frame.mainloop()
+
